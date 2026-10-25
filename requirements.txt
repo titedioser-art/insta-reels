@@ -1,0 +1,7 @@
+streamlit>=1.66
+anthropic>=0.60
+pillow>=10.0
+pillow-heif>=0.16
+imageio-ffmpeg>=0.5
+requests>=2.31
+python-dotenv>=1.0

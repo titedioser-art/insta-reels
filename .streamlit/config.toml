@@ -1,0 +1,10 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+maxUploadSize = 500
+enableStaticServing = true
+
+[theme]
+base = "light"
+primaryColor = "#E1306C"
